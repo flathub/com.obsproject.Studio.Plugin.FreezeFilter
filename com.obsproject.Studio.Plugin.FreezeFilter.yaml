@@ -18,8 +18,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exeldro/obs-freeze-filter.git
-        tag: 0.3.4
-        commit: d9c68e69fb0407230f63ac8b93ee3cb151143aa8
+        tag: 0.3.5
+        commit: 5de212bd067672f9349a85e0494a65c8b0156bd4
         x-checker-data:
           type: git
           is-main-source: true
